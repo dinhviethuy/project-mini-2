@@ -685,10 +685,6 @@
 	color: var(--color-text);
 }
 
-.selection-nice .container .inner-form .form-group {
-	padding: 0;
-}
-
 
 .selection-nice .container .inner-form .form-control {
 	border: none;
