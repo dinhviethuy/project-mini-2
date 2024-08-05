@@ -22,6 +22,7 @@ p {
 body {
 	font-family: "Raleway", sans-serif;
 	background: #fff;
+	overflow-x: hidden;
 }
 
 
@@ -38,4 +39,8 @@ ul {
 
 .row {
 	margin: 0;
+}
+
+html {
+	overflow-x: hidden;
 }
